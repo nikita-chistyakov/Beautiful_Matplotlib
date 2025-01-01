@@ -1,3 +1,8 @@
 # Beautiful_Matplotlib
 
-![plot](https://github.com/user-attachments/assets/4dca3644-369c-49e8-8621-5d5c2ecc0602)
+![image](https://github.com/user-attachments/assets/0003d5aa-d3f2-43b4-96ee-ba4fd9f7dcbb)
+
+_* final details can be added using presentation apps (like Google Slides or Canva)
+- title
+- round border corners
+- numeric indicators_
